@@ -1,6 +1,6 @@
 # MNIST Digit Classification Using CNN Neural Network in PyTorch
 
-This project implements a Convolutional Neural Network (CNN) using PyTorch for classifying MNIST digits. The CNN is trained on a dataset with 60,000 images and has been evaluated to achieve an accuracy of 96.5% on unseen data and an accuracy of 97% on seen data.
+This project implements a Convolutional Neural Network (CNN) using PyTorch for classifying MNIST digits. The CNN is trained on a dataset with 60,000 images and has been evaluated to achieve an accuracy of 96.7% on unseen data and an accuracy of 97.1% on seen data.
 
 ## Preprocessing
 The MNIST dataset is preprocessed using the preprocessData() function. The function performs the following steps:
